@@ -7,6 +7,7 @@
   "author": "Anatoliy Yastreb",
   "license": "MIT",
   "scripts": {
+    "test": "echo \"No test specified\"",
     "start": "node server.js"
   },
   "dependencies": {
