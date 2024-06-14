@@ -7,7 +7,6 @@
   "author": "Anatoliy Yastreb",
   "license": "MIT",
   "scripts": {
-    "poststart": "npm audit",
     "start": "node server.js"
   },
   "dependencies": {
