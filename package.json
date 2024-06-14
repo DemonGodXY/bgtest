@@ -7,7 +7,6 @@
   "author": "Anatoliy Yastreb",
   "license": "MIT",
   "scripts": {
-    "install": "npm update"
     "start": "node server.js"
   },
   "dependencies": {
